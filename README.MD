@@ -6,7 +6,7 @@
 
 3- **git reset.**            (para cancelar la agregacion)
 
-4- **git commit -m** 
+4- **git commit -m**
 
 5- **git checkout -- .**     (recupero lo borrado o lo anteriro)
 
@@ -19,3 +19,5 @@
 8- **git checkout -b** rama-trabajo   (Creacion de una rama)
 
 9- **git checkout master**                 (cambiamos a rama **master**)
+
+10- **git branch -d** rama-trabajo     (borra rama)

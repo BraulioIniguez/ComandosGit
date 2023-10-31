@@ -21,3 +21,7 @@
 9- **git checkout master**                 (cambiamos a rama **master**)
 
 10- **git branch -d** rama-trabajo     (borra rama)
+
+11- **git push        (subir todo a gitHub)
+
+12- **git commit -am "Este nos ahorra los dos git add. y git commit en uno solo"

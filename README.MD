@@ -18,4 +18,4 @@
 
 8- **git checkout -b** rama-trabajo   (Creacion de una rama)
 
-9-
+9- **git checkout master**                 (cambiamos a rama **master**)

@@ -6,6 +6,10 @@
 
 3- git reset.
 
-3- git commit -m
+4- git commit -m
 
-4-
+5- git checkout -- .
+
+6- git log    (aqui checamos los commit y sus nombre)
+
+7- git commit --amend     (con letra 'q' se sale de la terminal)
